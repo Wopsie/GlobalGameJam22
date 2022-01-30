@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+ShroedingersCat/Saved/AutoScreenshot.png
+
+ShroedingersCat/Saved/Logs/ShroedingersCat.log
