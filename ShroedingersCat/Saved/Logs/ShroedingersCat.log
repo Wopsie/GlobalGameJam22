@@ -1862,3 +1862,74 @@ Converted Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,90.0000
 [2022.01.30-10.34.40:133][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
 [2022.01.30-10.34.40:153][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
 [2022.01.30-10.34.40:182][594]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.01.30-10.35.56:244][724]LogTurnkeySupport: Display: Adding device menu item for PORTABLEWORKSTA
+[2022.01.30-10.35.56:244][724]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/ShroedingersCat.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Intermediate/TurnkeyReport_1.log" -log="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Intermediate/TurnkeyLog_1.log" -project="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/ShroedingersCat.uproject"  -Device=Win64@PORTABLEWORKSTA'
+[2022.01.30-10.35.56:244][724]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Programs/Unreal Engine/UE_5.0EA/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/ShroedingersCat.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Intermediate/TurnkeyReport_1.log" -log="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Intermediate/TurnkeyLog_1.log" -project="D:/2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/ShroedingersCat.uproject"  -Device=Win64@PORTABLEWORKSTA" -nocompile ]
+[2022.01.30-10.35.57:985][812]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.01.30-10.35.57:985][812]LogTurnkeySupport: Turnkey Device: Win64@PORTABLEWORKSTA: (Name=PORTABLEWORKSTA, Status=Valid, Installed=10.0.19043.0, MinAllowed=10.0.0.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.01.30-10.36.31:788][741]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2022.01.30-10.36.31:788][741]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.01.30-10.36.31:819][741]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2022.01.30-10.36.31:819][741]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.01.30-10.36.31:819][741]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2022.01.30-10.36.31:819][741]LogWindows: Warning: URL: C:\Users\racer\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.01.30-10.36.31:819][741]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2022.01.30-10.36.31:819][741]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.01.30-10.36.31:820][741]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2022.01.30-10.36.31:820][741]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.01.30-10.37.58:819][611]LogSlate: Window 'Source Control Login' being destroyed
+[2022.01.30-10.39.03:891][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.01.30-10.39.03:922][726]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/L_PlayerGym_Auto2A9C6F6BE4E4B03A4FF779F8B9A2CC123.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/Autosaves/Game/L_PlayerGym_Auto2.umap'
+[2022.01.30-10.39.03:926][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_PlayerGym' took 0.055
+[2022.01.30-10.39.03:926][726]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2022.01.30-10.41.02:345][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_PlayerGym" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/L_PlayerGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-10.41.02:362][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.01.30-10.41.02:396][630]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/L_PlayerGym1FC0A6004522AC235D7CE6A6992C31BD.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/L_PlayerGym.umap'
+[2022.01.30-10.41.02:582][630]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/L_PlayerGym_BuiltData
+[2022.01.30-10.41.02:582][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_PlayerGym_BuiltData" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/L_PlayerGym_BuiltData.uasset" SILENT=true
+[2022.01.30-10.41.02:600][630]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/L_PlayerGym_BuiltDataBE8BBE9041E79AF67BDA7DA0AC255ED5.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/L_PlayerGym_BuiltData.uasset'
+[2022.01.30-10.41.02:793][630]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/L_PlayerGym_BuiltData
+[2022.01.30-10.41.02:804][630]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-10.41.02:804][630]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/L_PlayerGym_BuiltData.L_PlayerGym_BuiltData
+[2022.01.30-10.41.02:804][630]LogContentValidation: Display: Validating World /Game/L_PlayerGym.L_PlayerGym
+[2022.01.30-10.41.35:726][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharater/BP_PlayerCat.BP_PlayerCat
+[2022.01.30-10.41.37:101][ 41]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 127 classes and 0 folders.
+[2022.01.30-10.41.37:940][ 41]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.01.30-10.41.37:963][ 41]LogStaticMesh: StaticMesh /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox should be resaved to improve async compilation performance.
+[2022.01.30-10.41.38:144][ 41]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (PhAT_FloorBox) ...
+[2022.01.30-10.41.38:568][ 41]LogMaterial: Display: Missing cached shadermap for PersonaFloorMat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FBFA7ECD1663D4867F1A6626F8B84517C758F51), compiling. 
+[2022.01.30-10.41.38:973][ 41]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.353616s (1.353616s overbudget)
+[2022.01.30-10.41.40:373][ 42]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/CharacterMovementComponent_16.svg'. File could not be found
+[2022.01.30-10.41.52:378][676]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.30-10.41.52:378][676]LogShaderCompilers: Display: Total job queries 9885, among them cache hits 440 (4.45%)
+[2022.01.30-10.41.52:378][676]LogShaderCompilers: Display: Tracking 9324 distinct input hashes that result in 3109 distinct outputs (33.34%)
+[2022.01.30-10.41.52:378][676]LogShaderCompilers: Display: RAM used: 10.40 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.27%
+[2022.01.30-10.41.52:378][676]LogShaderCompilers: Display: ================================================
+[2022.01.30-10.41.52:441][680]BlueprintLog: New page: Compile BP_PlayerCat
+[2022.01.30-10.41.52:801][680]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2022.01.30-10.41.53:191][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharater/BP_PlayerCat" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/BP_PlayerCat.uasset" SILENT=true
+[2022.01.30-10.41.53:335][680]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/BP_PlayerCat3CF0B52B409DDE594D44B6B6A125D392.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/BP_PlayerCat.uasset'
+[2022.01.30-10.41.53:362][680]AssetCheck: New page: Asset Save: BP_PlayerCat
+[2022.01.30-10.41.53:362][680]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharater/BP_PlayerCat.BP_PlayerCat
+[2022.01.30-10.41.54:340][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharater/BP_PlayerCat" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/BP_PlayerCat.uasset" SILENT=true
+[2022.01.30-10.41.54:397][720]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/BP_PlayerCat89A1ED6D4820403BE1FE12B584A7CF0D.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/BP_PlayerCat.uasset'
+[2022.01.30-10.41.54:419][720]AssetCheck: New page: Asset Save: BP_PlayerCat
+[2022.01.30-10.41.54:419][720]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharater/BP_PlayerCat.BP_PlayerCat
+[2022.01.30-10.41.54:996][752]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-10.41.54:996][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-10.42.16:854][419]LogAnalytics: Warning: EventCache either took too long to flush (5.293 ms) or had a very large payload (3.557 KB, 13 events). Listing events in the payload for investigation:
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.Heartbeat,432
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,267
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,267
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,267
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,267
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,267
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,269
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,269
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,269
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,269
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.PawnPlacement,119
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.Compile,229
+[2022.01.30-10.42.16:855][419]LogAnalytics: Warning:     Editor.Usage.BlueprintEditorSummary,438
