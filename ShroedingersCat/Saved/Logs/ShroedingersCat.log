@@ -1113,3 +1113,106 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.30-13.07.26:836][ 33]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/IM_ThirdPersonControlsF90A0A974C4A95077D819E977622B5D3.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/IM_ThirdPersonControls.uasset'
 [2022.01.30-13.07.26:860][ 33]AssetCheck: New page: Asset Save: IM_ThirdPersonControls
 [2022.01.30-13.07.26:860][ 33]LogContentValidation: Display: Validating InputMappingContext /Game/PlayerCharater/IM_ThirdPersonControls.IM_ThirdPersonControls
+[2022.01.30-13.07.57:921][631]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.01.30-13.08.47:841][692]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.30-13.08.47:870][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-13.08.47:871][692]PIE: New page: PIE session: L_PlayerGym (30.01.2022, 15:08:47)
+[2022.01.30-13.08.47:871][692]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_PlayerGym
+[2022.01.30-13.08.47:877][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005982s)
+[2022.01.30-13.08.47:878][692]LogAIModule: Creating AISystem for world L_PlayerGym
+[2022.01.30-13.08.47:879][692]LogPlayLevel: PIE: World Init took: (0.002376s)
+[2022.01.30-13.08.47:879][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_PlayerGym.L_PlayerGym to /Game/UEDPIE_0_L_PlayerGym.L_PlayerGym (0.008580s)
+[2022.01.30-13.08.47:916][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.01.30-13.08.47:917][692]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.30-13.08.47:917][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-13.08.47:917][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-13.08.47:917][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-13.08.47:917][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-13.08.47:917][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-13.08.47:917][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-13.08.47:917][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-13.08.47:917][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-13.08.47:918][692]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.30-13.08.47:918][692]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-13.08.47:940][692]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-13.08.47:940][692]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-13.08.47:970][692]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio(SST))
+[2022.01.30-13.08.47:970][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-13.08.47:970][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-13.08.47:970][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-13.08.47:971][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-13.08.47:971][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-13.08.47:973][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-13.08.47:973][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-13.08.47:973][692]LogInit: FAudioDevice initialized.
+[2022.01.30-13.08.47:973][692]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_PlayerGym'.
+[2022.01.30-13.08.47:982][692]LogLoad: Game class is 'CatGameMode_C'
+[2022.01.30-13.08.47:984][692]LogWorld: Bringing World /Game/UEDPIE_0_L_PlayerGym.L_PlayerGym up for play (max tick rate 60) at 2022.01.30-14.08.47
+[2022.01.30-13.08.47:985][692]LogWorld: Bringing up level for play took: 0.002828
+[2022.01.30-13.08.47:985][692]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.01.30-13.08.47:991][692]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.01.30-13.08.47:991][692]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.01.30-13.08.47:991][692]PIE: Server logged in
+[2022.01.30-13.08.47:992][692]PIE: Play in editor total start time 0,142 seconds.
+[2022.01.30-13.08.49:376][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-13.08.49:376][738]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_PlayerGym
+[2022.01.30-13.08.49:376][738]LogWorld: UWorld::CleanupWorld for L_PlayerGym, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-13.08.49:377][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-13.08.49:393][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-13.08.49:399][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-13.08.49:433][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-13.08.49:434][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-13.08.49:435][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-13.08.49:457][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-13.08.49:462][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.01.30-13.08.49:498][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.01.30-13.08.49:518][739]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.01.30-13.09.32:347][915]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.01.30-13.20.09:991][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.01.30-13.20.09:993][892]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_PlayerGym' took 0.041
+[2022.01.30-13.20.09:993][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UBP_MainMenu] ([1] browsable assets)...
+[2022.01.30-13.20.09:993][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UBP_MainMenu]
+[2022.01.30-13.20.10:049][892]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/UBP_MainMenu_Auto19165CE4F41E991C46FCE7BA8C03B8F3C.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/Autosaves/Game/UI/UBP_MainMenu_Auto1.uasset'
+[2022.01.30-13.20.10:050][892]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.01.30-13.20.41:338][518]BlueprintLog: New page: Compile UBP_MainMenu
+[2022.01.30-13.20.41:379][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.01.30-13.20.41:672][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UBP_MainMenu" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset" SILENT=true
+[2022.01.30-13.20.41:759][518]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/UBP_MainMenuAA88CA5B4F750E63B81A01A1F411348B.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset'
+[2022.01.30-13.20.41:781][518]AssetCheck: New page: Asset Save: UBP_MainMenu
+[2022.01.30-13.20.41:781][518]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UBP_MainMenu.UBP_MainMenu
+[2022.01.30-13.20.42:419][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UBP_MainMenu" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset" SILENT=true
+[2022.01.30-13.20.42:461][541]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/UBP_MainMenu136BF5F34ED0C80B5FFE8EAC7FBDE18E.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset'
+[2022.01.30-13.20.42:476][541]AssetCheck: New page: Asset Save: UBP_MainMenu
+[2022.01.30-13.20.42:476][541]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UBP_MainMenu.UBP_MainMenu
+[2022.01.30-13.21.06:740][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharater/CatGameMode.CatGameMode
+[2022.01.30-13.21.07:450][297]LogStaticMesh: StaticMesh /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox should be resaved to improve async compilation performance.
+[2022.01.30-13.21.14:351][668]BlueprintLog: New page: Compile CatGameMode
+[2022.01.30-13.21.14:429][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.01.30-13.21.14:738][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharater/CatGameMode" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset" SILENT=true
+[2022.01.30-13.21.14:759][668]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/CatGameMode1E8538FE477C8BB65477948DA7015749.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset'
+[2022.01.30-13.21.14:778][668]AssetCheck: New page: Asset Save: CatGameMode
+[2022.01.30-13.21.14:778][668]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharater/CatGameMode.CatGameMode
+[2022.01.30-13.21.15:324][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharater/CatGameMode" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset" SILENT=true
+[2022.01.30-13.21.15:356][684]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/CatGameModeCFABCEDA48B68241A6BA41B2FCCEC1B7.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset'
+[2022.01.30-13.21.15:375][684]AssetCheck: New page: Asset Save: CatGameMode
+[2022.01.30-13.21.15:375][684]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharater/CatGameMode.CatGameMode
+[2022.01.30-13.21.19:016][818]BlueprintLog: New page: Compile CatGameMode
+[2022.01.30-13.21.19:078][818]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.01.30-13.21.19:371][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharater/CatGameMode" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset" SILENT=true
+[2022.01.30-13.21.19:392][818]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/CatGameModeAED505A0403B7037087B749827295FEE.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset'
+[2022.01.30-13.21.19:414][818]AssetCheck: New page: Asset Save: CatGameMode
+[2022.01.30-13.21.19:414][818]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharater/CatGameMode.CatGameMode
+[2022.01.30-13.21.19:955][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharater/CatGameMode" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset" SILENT=true
+[2022.01.30-13.21.19:978][834]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/CatGameMode723C33CB443C74F252660990019B9164.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/PlayerCharater/CatGameMode.uasset'
+[2022.01.30-13.21.19:993][834]AssetCheck: New page: Asset Save: CatGameMode
+[2022.01.30-13.21.19:993][834]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharater/CatGameMode.CatGameMode
+[2022.01.30-13.21.47:439][899]BlueprintLog: New page: Compile UBP_MainMenu
+[2022.01.30-13.21.47:488][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.01.30-13.21.47:788][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UBP_MainMenu" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset" SILENT=true
+[2022.01.30-13.21.47:831][899]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/UBP_MainMenuD717458B48A78D85CD2C2DA5CC1394C6.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset'
+[2022.01.30-13.21.47:851][899]AssetCheck: New page: Asset Save: UBP_MainMenu
+[2022.01.30-13.21.47:851][899]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UBP_MainMenu.UBP_MainMenu
+[2022.01.30-13.21.48:469][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UBP_MainMenu" FILE="../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset" SILENT=true
+[2022.01.30-13.21.48:513][920]LogSavePackage: Moving '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Saved/UBP_MainMenu3F07B76F43BD7E10D2A0B5BCAB5646BF.tmp' to '../../../../../../2_Projects/Games/UE5/GlobalGameJam22/ShroedingersCat/Content/UI/UBP_MainMenu.uasset'
+[2022.01.30-13.21.48:531][920]AssetCheck: New page: Asset Save: UBP_MainMenu
+[2022.01.30-13.21.48:531][920]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UBP_MainMenu.UBP_MainMenu
